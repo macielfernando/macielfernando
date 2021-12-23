@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Estudo Analise e Desenvolvimento de Sistemas na UNINASSAL
+- 🔭 Estudo Analise e Desenvolvimento de Sistemas | UNINASSAL
 - 🌱 Atualmente estudando .NET | C# | Python
 - 📫 Contate-me no email: macielfernando@protonmail.com
 
