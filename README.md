@@ -28,6 +28,7 @@
   
 </div>
 
+![Snake animation](https://github.com/macielfernando/macielfernando/blob/output/github-contribution-grid-snake.svg)
 
  
 
