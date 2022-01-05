@@ -2,7 +2,7 @@
 
 
 
-- Cursando Analise e Desenvolvimento de Sistemas | Uninabuco
+- Cursando Analise e Desenvolvimento de Sistemas | Uninabuco EAD
 - Atualmente estudando .NET | C# | Python | SQL
 - Contate-me no email: macielfernando@protonmail.com
   <div> 
