@@ -7,7 +7,7 @@
 
   <div> 
 
-  - 📫 Contatos: <a href="https://api.whatsapp.com/send?phone=81986095673"> <img src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat&labelColor=4CA143&logo=whatsapp&logoColor=white" title="Text me" alt="Whatsapp"> </a> <a href="mailto:fernandoalves.m@hotmail.com"> <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" title="Send me an email" alt="Gmail"> </a> <a href="https://www.linkedin.com/in/fernando-maciel-257645151//"> <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" title="My Social Network" alt="LinkedIn"> </a>
+📫 Contatos: <a href="https://api.whatsapp.com/send?phone=81986095673"> <img src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat&labelColor=4CA143&logo=whatsapp&logoColor=white" title="Text me" alt="Whatsapp"> </a> <a href="mailto:fernandoalves.m@hotmail.com"> <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" title="Send me an email" alt="Gmail"> </a> <a href="https://www.linkedin.com/in/fernando-maciel-257645151//"> <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" title="My Social Network" alt="LinkedIn"> </a>
  
  
  
