@@ -4,11 +4,10 @@
 
 - Cursando Analise e Desenvolvimento de Sistemas | Uninabuco EAD
 - Atualmente estudando .NET | C# | SQL
-- Contate-me no email: macielfernando@protonmail.com
+
   <div> 
 
-  <a href="https://www.linkedin.com/in/fernando-maciel-257645151/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+  - 📫 Contatos: <a href="https://api.whatsapp.com/send?phone=81986095673"> <img src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat&labelColor=4CA143&logo=whatsapp&logoColor=white" title="Text me" alt="Whatsapp"> </a> <a href="mailto:fernandoalves.m@hotmail.com"> <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" title="Send me an email" alt="Gmail"> </a> <a href="https://www.linkedin.com/in/fernando-maciel-257645151//"> <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" title="My Social Network" alt="LinkedIn"> </a>
  
  
  
