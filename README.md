@@ -1,7 +1,6 @@
 ### Fernando Maciel
 
 
-
 - Cursando Analise e Desenvolvimento de Sistemas | Uninabuco EAD
 - Atualmente estudando .NET | C# | SQL
 
