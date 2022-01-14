@@ -11,12 +11,12 @@
  
  
  
-</div>
-<div align="center">
-  <a href="https://github.com/macielfernando">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=macielfernando&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  
-</div>
+<details>
+    <summary align="left">GitHub Profile Stats 💻 📊 🏆</summary>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=macielfernando&langs_count=8&layout=compact&theme=gruvbox" align="left" width="365px" height="210" /> 
+    <img src="https://github-readme-stats.vercel.app/api?username=macielfernando&show_icons=true&theme=gruvbox" width="465px" height="210" />
+</details>
+
 
 
   
